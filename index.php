@@ -6,9 +6,9 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 	<title>健康促進網</title>
-	<link href="./home_files/css.css" rel="stylesheet" type="text/css">
-	<script src="./home_files/jquery-1.9.1.min.js"></script>
-	<script src="./home_files/js.js"></script>
+	<link href="./css/css.css" rel="stylesheet" type="text/css">
+	<script src="./js/jquery-1.9.1.min.js"></script>
+	<script src="./js/js.js"></script>
 </head>
 
 <body>
@@ -18,9 +18,11 @@
 	<iframe name="back" style="display:none;"></iframe>
 	<div id="all">
 		<div id="title">
-			00 月 00 號 Tuesday | 今日瀏覽: 1 | 累積瀏覽: 36 </div>
+			00 月 00 號 Tuesday | 今日瀏覽: 1 | 累積瀏覽: 36 
+			<a href="index.php" style="float: right;">回首頁</a>
+		</div>
 		<div id="title2">
-
+		<img src="./icon/banner.jpg" alt="健康進-回首頁">
 		</div>
 		<div id="mm">
 			<div class="hal" id="lef">
@@ -42,9 +44,9 @@
 			</div>
 		</div>
 		<div id="bottom">
-			本網站建議使用：IE9.0以上版本，1024 x 768 pixels 以上觀賞瀏覽 ， Copyright © 2012健康促進網社群平台 All Right Reserved
+			本網站建議使用：IE9.0以上版本，1024 x 768 pixels 以上觀賞瀏覽 ， Copyright © 2024健康促進網社群平台 All Right Reserved
 			<br>
-			服務信箱：health@test.labor.gov.tw<img src="./home_files/02B02.jpg" width="45">
+			服務信箱：health@test.labor.gov.tw<img src="./icon/02B02.jpg" width="45">
 		</div>
 	</div>
 
